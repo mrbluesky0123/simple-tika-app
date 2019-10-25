@@ -1,0 +1,6 @@
+lib/
+include/
+bin/
+/.vscode
+lib64
+pyenv.cfg
